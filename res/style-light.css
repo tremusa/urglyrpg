@@ -1,0 +1,43 @@
+/* Primary rgb(31, 82, 65)*/
+/* Secondary #e5e5e5*/
+
+body {
+  background-color: #FFF;
+  color: rgb(31, 82, 65);
+}
+
+pre {
+  background-color: #e5e5e5;
+  font-size: 10px;
+  font-family: monospace;
+  max-height: 400px;
+  overflow: auto;
+}
+
+input {
+  background-color: #e5e5e5;
+  color: rgb(31, 82, 65);
+  border: 1px solid;
+  height: 20px;
+}
+
+hr {
+  border: 1px inset rgb(31, 82, 65);
+}
+
+button {
+  background-color: #e5e5e5;
+  color: rgb(31, 82, 65);
+  height: 24px;
+  border-color: rgb(31, 82, 65);
+}
+
+.container {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.action-input {
+  width: 450px;
+  margin-right: 15px;
+}
